@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NgurahFajar
+- 👋 Hi, I’m @Ngurah
 - 👀 I’m interested in Computer Science
 - 📫 How to reach me agungfajar476@gmail.com
 
